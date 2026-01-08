@@ -4,4 +4,3 @@ pandas==1.5.3
 Pillow==9.5.0
 requests==2.30.0
 scikit-learn==1.0.2
-rich==13.9.4
