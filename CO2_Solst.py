@@ -83,7 +83,7 @@ def predict_solubility(data0):
 
 html_temp = """
 <div style="background-color:tomato;padding:1.5px">
-<h1 style="color:white;text-align:center;">UH CO2 Solubility in Brine Calculator  </h1>
+<h1 style="color:white;text-align:center;">CO2 Solubility in Brine Calculator  </h1>
 </div><br>"""
 st.markdown(html_temp, unsafe_allow_html=True)
 
